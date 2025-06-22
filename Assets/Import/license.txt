@@ -1,0 +1,11 @@
+Model Information:
+* title:	Environment Final
+* source:	https://sketchfab.com/3d-models/environment-final-0785db2b98614db1b8bc8cd03d8f2bb5
+* author:	Joseph Stanley (https://sketchfab.com/josephstanley)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Environment Final" (https://sketchfab.com/3d-models/environment-final-0785db2b98614db1b8bc8cd03d8f2bb5) by Joseph Stanley (https://sketchfab.com/josephstanley) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
